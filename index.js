@@ -1,5 +1,5 @@
 // Code your solution in this file!
 let companyName = 'Scuber'
 function companyNameCheck(){
-  var result != 'Scuber'
+  var result != 'Scuber';
 }
